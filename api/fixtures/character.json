@@ -1,0 +1,26 @@
+[
+  {
+    "model": "api.Character",
+    "fields": {
+      "slug": "mickey",
+      "name": "ミッキー",
+      "world": "ミッキー＆フレンズ",
+      "how_to_get": "happiness",
+      "description": "画面中央のツムをまとめて消すよ！",
+      "created_at": "2015-05-20T20:51:10.252",
+      "updated_at": "2015-05-20T20:51:10.252"
+    }
+  },
+  {
+    "model": "api.Character",
+    "fields": {
+      "slug": "miney",
+      "name": "ミニー",
+      "world": "ミッキー＆フレンズ",
+      "how_to_get": "happiness",
+      "description": "ミニーと一緒に消せる高得点ミッキーが出るよ！",
+      "created_at": "2015-05-20T20:51:10.252",
+      "updated_at": "2015-05-20T20:51:10.252"
+    }
+  }
+]
